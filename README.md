@@ -34,7 +34,7 @@ Qwen/Qwen3-32B
 The model is accessed through the Hugging Face Inference API.
 
 ## Streamlit app
-
+https://mcqgenerator-kisak8njmmljtveaefappta.streamlit.app/
 
 ## Project Structure
 MCQ_Generator/
